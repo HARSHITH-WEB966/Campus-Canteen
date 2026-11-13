@@ -1,10 +1,11 @@
-// Experiment launcher: lists every experiment and opens it on tap.
-//
-// Run:  flutter run
-//
-// Each experiment is also a complete program in lib/experiments/ and can be
-// run by itself, e.g.  flutter run -t lib/experiments/exp02a_widgets.dart
+/*
+ Experiment launcher: lists every experiment and opens it on tap.
 
+ Run:  flutter run
+
+ Each experiment is also a complete program in lib/experiments/ and can be
+ run by itself, e.g.  flutter run -t lib/experiments/exp02a_widgets.dart
+*/
 import 'package:flutter/material.dart';
 
 import 'experiments/exp02a_widgets.dart' as exp2a;
