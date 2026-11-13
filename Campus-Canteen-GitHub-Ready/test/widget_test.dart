@@ -40,7 +40,9 @@ void main() {
       await tester.pumpWidget(const CounterApp());
 
       expect(find.text('Simple Counter App'), findsOneWidget);
+      
       expect(find.text('0'), findsOneWidget);
+      
       expect(find.text('1'), findsNothing);
 
       await tester.tap(find.text('Increment'));
