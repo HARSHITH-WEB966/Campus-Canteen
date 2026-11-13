@@ -267,7 +267,7 @@ Campus-Canteen/
 └── README.md
 ```
 
-## 📸 Experiment Screenshots
+## Experiment Screenshots
 
 Screenshots of the actual experiment outputs can be added to the `screenshots/` folder.
 
